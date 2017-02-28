@@ -18,5 +18,5 @@ ProgrameLife 程序人生
 ![image](https://github.com/13120241790/ProgrameLife/blob/master/Image/wechatCode.png)
 
 # 版权
-1.集百家之所长,站在巨人的肩膀上。文中如果有构成侵权行为请联系本人进行删除或者修改。
-2.所有文章欢迎转载但请标明出处: https://github.com/13120241790/ProgrameLife ,文章仅供学习交流禁止一切商业用途。
+- 集百家之所长,站在巨人的肩膀上。文中如果有构成侵权行为请联系本人进行删除或者修改。
+- 所有文章欢迎转载但请标明出处: https://github.com/13120241790/ProgrameLife ,文章仅供学习交流禁止一切商业用途。
