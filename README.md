@@ -5,7 +5,12 @@ ProgrameLife 程序人生
 
 其实我想说的是，我只是一个程序员，这就是我现在纯粹人生的全部
 
-
+# 目录
+- [Android]()
+- [DesignPatterns]()
+- [Git]()
+- [Java]()
+- [Other]()
 
 
 # 鼓励
