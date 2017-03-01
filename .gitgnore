@@ -1,0 +1,6 @@
+# Java class files 忽略java 每次编译产生的 class 文件
+*.class
+
+# Generated files 忽略每次编译运行 ide 生成的 bin/ gen/ 目录下的内容
+bin/
+gen/
