@@ -11,7 +11,7 @@
 
 3 测试效果
 ![image](https://github.com/13120241790/ProgrameLife/blob/master/Image/git2.png)<br>
-![image](https://github.com/13120241790/ProgrameLife/blob/master/Image/git1.png)<br>
+![image](https://github.com/13120241790/ProgrameLife/blob/master/Image/git3.png)<br>
 图2 中可以看到没有创建忽略文件时候 class 文件是被上传到 github 中了
 图3 通过命令行操作可以看出
 - 我把原本存在的 class 文件 通过 rm *.class 命令删除了
