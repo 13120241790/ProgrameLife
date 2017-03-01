@@ -6,12 +6,12 @@ ProgrameLife 程序人生
 其实我想说的是，我只是一个程序员，这就是我现在纯粹人生的全部
 
 # 目录
-- [Android]()
-- [DesignPatterns]()
-- [Git]()
-- [Java]()
-- [RongCloud]()
-- [Other]()
+- [Android](https://github.com/13120241790/ProgrameLife/blob/master/Android/LIST.md)
+- [DesignPatterns](https://github.com/13120241790/ProgrameLife/blob/master/DesignPatterns/LIST.md)
+- [Git](https://github.com/13120241790/ProgrameLife/blob/master/Git/LIST.md)
+- [Java](https://github.com/13120241790/ProgrameLife/blob/master/Java/LIST.md)
+- [RongCloud](https://github.com/13120241790/ProgrameLife/blob/master/RongCloud/LIST.md)
+- [Other](https://github.com/13120241790/ProgrameLife/blob/master/Other/LIST.md)
 
 
 # 鼓励
